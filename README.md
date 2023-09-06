@@ -1,8 +1,8 @@
 
 
 
-# ISM-Project-2023-Cybersecurity-ML (WOP)
-ISM Project 2023 | The primary goal of this project is to develop a comprehensive fraud detection system that enhances the security and trustworthiness of financial transactions. 
+# Fraud Detection System (WOP)
+The primary goal of this project is to develop a comprehensive fraud detection system that enhances the security and trustworthiness of financial transactions. 
 
 Project Title: Fraud Detection System using Machine Learning
 
